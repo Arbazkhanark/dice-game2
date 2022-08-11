@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+}
+
+h1{
+    position: relative;
+    top: 30px;
+    text-align: center;
+    font-family: 'ubuntu','Lobster', 'cursive';
+}
+
+.container{
+    background-color:#FF8585 ;
+}
+
+.players{
+    text-align: center;
+    margin-top: 70px;
+    height: 555px;
+}
+
+.split{
+    height: 530px;
+    width: 50%;
+    position: absolute;
+    z-index: 1;
+    padding-top: 20px;
+    background-color: #ff575776;
+}
+
+.player2{
+    position: absolute;
+    left: 50%;
+}
+
+.img{
+    width:150px;
+    margin-top: 50px;
+}
+
+footer{
+    text-align: center;
+}
